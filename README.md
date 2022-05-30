@@ -16,5 +16,5 @@ Angela Yu Course
 
 ## Done
 
-![UI](\flutter_01.png)
-![UI](\flutter_02.png)
+![UI](/flutter_01.png)
+![UI](/flutter_02.png)
