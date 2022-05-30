@@ -1,16 +1,20 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+Angela Yu Course
 
-## Getting Started
+## Knowledge
+-- Use Theme, Custom theme.
+-- Use CookBook flutter.
+-- ThemeData.
+-- Wrap Theme Widget.
+-- final vs const.
+-- gestureDetector.
+-- enum.
+-- slider, SliderTheme, Thumb Shape, overlay shape, round slider overlay shape, active track color, round slider thumb Shape.
+-- constants.
+-- Round mutiple Screens, name routes..
 
-This project is a starting point for a Flutter application.
+## Done
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![UI](\flutter_01.png)
+![UI](\flutter_02.png)
